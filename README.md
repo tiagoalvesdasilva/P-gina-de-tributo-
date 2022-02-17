@@ -1,1 +1,1 @@
-Essa é uma página de trbuto para o ator Chadwick Boseman. 
+Essa é uma página de tributo para o ator Chadwick Boseman. 
