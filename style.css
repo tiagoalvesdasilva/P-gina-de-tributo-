@@ -20,6 +20,10 @@ header h1{
     text-align: center;
     
 }
+.img1{
+    max-width: 300px;
+    max-height: auto;
+}
 main{
     min-width: 300px;
     max-width: 1000px;
